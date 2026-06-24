@@ -228,7 +228,7 @@ export function AboutTeaser() {
                 Get in touch
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/ireri-amanda/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
