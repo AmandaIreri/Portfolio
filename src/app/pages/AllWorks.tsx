@@ -54,11 +54,11 @@ const PROJECTS = [
   },
   {
     slug: "homabay-hris",
-    title: "Homa Bay County HRIS",
+    title: "HRIS Mobile App",
     subtitle: "UI/UX Revamp for County Government Workforce Management",
     tagline: "Design complete — implementing in Android",
     description:
-      "Revamping the mobile HR Information System for Homa Bay County Government. Transformed a dated interface into a modern, intuitive experience for attendance tracking, leave management, and staff productivity.",
+      "Revamping the mobile HR Information System for a civic institution. Transformed a dated interface into a modern, intuitive experience for attendance tracking, leave management, and staff productivity.",
     tags: ["UI Revamp", "Android XML", "Government UX", "Design System"],
     meta: { role: "UI/UX Designer & Implementation", timeline: "Ongoing", status: "In Progress" },
     accent: "#0B1D2E",
