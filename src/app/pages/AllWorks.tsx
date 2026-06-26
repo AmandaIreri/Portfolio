@@ -55,11 +55,11 @@ const PROJECTS = [
   {
     slug: "homabay-hris",
     title: "HRIS Mobile App",
-    subtitle: "UI/UX Revamp for County Government Workforce Management",
+    subtitle: "UI/UX Revamp for a Workforce Management",
     tagline: "Design complete — implementing in Android",
     description:
       "Revamping the mobile HR Information System for a civic institution. Transformed a dated interface into a modern, intuitive experience for attendance tracking, leave management, and staff productivity.",
-    tags: ["UI Revamp", "Android XML", "Government UX", "Design System"],
+    tags: ["UI Revamp", "Android XML", "Civic UX", "Design System"],
     meta: { role: "UI/UX Designer & Implementation", timeline: "Ongoing", status: "In Progress" },
     accent: "#0B1D2E",
     accentLight: "#7EC8E3",
@@ -156,7 +156,7 @@ export function AllWorks() {
             }}
           >
             Four case studies spanning fintech, agriculture, travel, and
-            government — each demonstrating end-to-end design ownership.
+            workforce-related flows — each demonstrating end-to-end design ownership.
           </p>
         </div>
 
