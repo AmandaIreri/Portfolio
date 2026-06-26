@@ -4,7 +4,7 @@ import { useScrollReveal } from "../../../components/useScrollReveal";
 const TOOL_GROUPS = [
   { label: "Design", tools: ["Figma", "Design Systems", "Prototyping"] },
   { label: "Development", tools: ["Android XML", "Android Studio"] },
-  { label: "Domain", tools: ["HRIS / Workforce Management", "Government UX"] },
+  { label: "Domain", tools: ["HRIS / Workforce Management", "Civic UX"] },
   { label: "Process", tools: ["UI Audits", "Handoff Collaboration", "Iterative Design"] },
 ];
 
