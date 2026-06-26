@@ -171,7 +171,7 @@ export function ResultsImpact() {
         >
           Expected outcomes include higher staff adoption of the HRIS platform,
           reduced errors in leave and attendance processes, and a more
-          professional digital representation of Homa Bay County Government.
+          professional digital representation of the County.
         </p>
       </div>
     </section>

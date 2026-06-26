@@ -96,7 +96,7 @@ const HIGHLIGHTS = [
   {
     title: "County-Branded Experience",
     description:
-      "Design aligned with Homa Bay County's visual identity — creating a professional, trustworthy interface that staff feel proud to use.",
+      "Design aligned with County's visual identity — creating a professional, trustworthy interface that staff feel proud to use.",
     icon: (
       <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
         <path
